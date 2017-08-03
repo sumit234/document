@@ -1,0 +1,20 @@
+var allVMs = VcPlugin.getAllVirtualMachines()
+
+for each (vm in allVMs){
+	if (vm.name == newVM.name){
+		System.log("VM Name : "+vm.name)
+		System.log("VM Datastore : "+vm.datastore)
+		System.log("VM Number of CPU : "+vm.config.hardware.numCPU)
+		System.log("VM Memory : "+vm.config.hardware.memoryMB)
+		System.log("===================================")
+		var virtualDevices = vm.config.hardware.device
+		for (vd in virtualDevices){
+			System.log("Virtual Device : "+virtualDevices[vd])
+			System.log("Virtual Device Key : "+virtualDevices[vd].key)
+			System.log("Virtual Device Controller Key : "+virtualDevices[vd].controllerKey)
+			System.log("Virtual Device Unit Number : "+virtualDevices[vd].unitNumber)
+			System.log("===================================")
+
+		}
+	}
+}

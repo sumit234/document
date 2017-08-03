@@ -1,0 +1,9 @@
+This is vRealize Orchestrator version 6.0.3.3000580
+
+The following variables where used while installing:
+
+Product
+-------
+Product ID                  a25b6d83-1edd-11b2-b127-fc7f6bc17d8c
+Product name                vRealize Orchestrator
+Version                     6.0.3.3000580

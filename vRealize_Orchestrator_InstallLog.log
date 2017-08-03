@@ -1,0 +1,537 @@
+__________________________________________________________________________
+
+Tue May 23 10:19:52 IST 2017
+
+Free Memory: 19227 kB
+Total Memory: 29696 kB
+
+java.class.path:
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\InstallerData\IAClasses.zip
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\InstallerData\Execute.zip
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\InstallerData\Execute.zip
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\InstallerData\Resource1.zip
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\InstallerData\Resource1.zip
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\InstallerData
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\InstallerData\IAClasses.zip
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\InstallerData\Execute.zip
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\InstallerData
+
+sun.boot.class.path:
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\lib\resources.jar
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\lib\rt.jar
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\lib\jsse.jar
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\lib\jce.jar
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\lib\charsets.jar
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\lib\jfr.jar
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre\lib\ext
+    C:\WINDOWS\Sun\Java\lib\ext
+
+java.version                  == 1.7.0_55 (Java 1)
+java.vm.name                  == Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor                == Oracle Corporation
+java.vm.version               == 24.55-b03
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Oracle Corporation
+java.vm.specification.version == 1.7
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Oracle Corporation
+java.specification.version    == 1.7
+java.vendor                   == Oracle Corporation
+java.vendor.url               == http://java.oracle.com/
+java.class.version            == 51.0
+java.compiler                 == null
+java.home                     == C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows\resource\jre
+java.io.tmpdir                == C:\Users\sbijalwa\AppData\Local\Temp\
+os.name                       == Windows 8.1
+os.arch                       == amd64
+os.version                    == 6.3
+path.separator                == ;
+file.separator                == \
+file.encoding                 == Cp1252
+user.name                     == sbijalwa
+user.home                     == D:\Users\sbijalwa
+user.dir                      == C:\Users\sbijalwa\AppData\Local\Temp\I1495514942\Windows
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+Install Begin: Tue May 23 10:19:12 IST 2017
+Install End: Tue May 23 10:19:51 IST 2017
+
+Installed by InstallAnywhere 10.0 Enterprise Build 3657
+
+
+User Interactions
+-----------------
+
+
+#Choose Install Folder
+#---------------------
+USER_INSTALL_DIR=D:\\
+
+#Choose Shortcut Folder
+#----------------------
+USER_SHORTCUTS=D:\\Users\\sbijalwa\\Desktop
+
+Summary
+-------
+
+Installation: Successfulwith errors.
+
+122 Successes
+0 Warnings
+12 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: DisplayName
+                          Value Data: vRealize Orchestrator: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: DisplayName, Value Data: vRealize Orchestrator
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: UninstallString
+                          Value Data: "D:\Uninstall_vRealize Orchestrator\Uninstall vRealize Orchestrator.exe": Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: UninstallString, Value Data: "D:\Uninstall_vRealize Orchestrator\Uninstall vRealize Orchestrator.exe"
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: Publisher
+                          Value Data: VMware, Inc.: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: Publisher, Value Data: VMware, Inc.
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: URLInfoAbout
+                          Value Data: http//www.vmware.com: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: URLInfoAbout, Value Data: http//www.vmware.com
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: Contact
+                          Value Data: support@vmware.com: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: Contact, Value Data: support@vmware.com
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: ProductID
+                          Value Data: a25b6d83-1edd-11b2-b127-fc7f6bc17d8c: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: ProductID, Value Data: a25b6d83-1edd-11b2-b127-fc7f6bc17d8c
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: InstallLocation
+                          Value Data: D:\: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: InstallLocation, Value Data: D:\
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: InstallDate
+                          Value Data: Tue May 23 10:19:46 IST 2017: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: InstallDate, Value Data: Tue May 23 10:19:46 IST 2017
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: DisplayVersion
+                          Value Data: 6.0.3.3000580: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: DisplayVersion, Value Data: 6.0.3.3000580
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: Comments
+                          Value Data: vRealize Orchestrator: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: Comments, Value Data: vRealize Orchestrator
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: DisplayIcon
+                          Value Data: D:\\Uninstall_vRealize Orchestrator\vco.ico: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator, Value Name: DisplayIcon, Value Data: D:\\Uninstall_vRealize Orchestrator\vco.ico
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Infrastructure\Orchestrator
+                          Value Name: InstalledVersion
+                          Value Data: 6.0.3.3000580: Access Denied. Make sure you have permissions to change the Windows registry. To ensure full functionality for this application, please edit your registry to include the following entry: Key: HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Infrastructure\Orchestrator, Value Name: InstalledVersion, Value Data: 6.0.3.3000580
+
+Install Log Detail:
+
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+
+
+
+
+
+Install Action:           Find Component in Registry: Old Major Version
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Found Last Major Version
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Old Minor Version
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Found Last Minor Version
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Old Sub Minor Version
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Found Last Sub-Minor Version
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Old Build Version
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Found Last Build Version
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Try to find a LCM Uninstall Component
+                          Status: SUCCESSFUL
+
+
+
+
+
+
+Install Action:           Find Component in Registry: Try to find the same version Component of VS-O
+                          Status: SUCCESSFUL
+
+Install Action:           Find Component in Registry: Try to find a Newer Uninstall Component of VS-O
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+
+
+
+
+Check Disk Space:         D:\
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 155,671,900; Free Disk Space: 247,115,272,192
+
+Install Directory:        D:\jre
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        D:\\
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        D:\Uninstall_vRealize Orchestrator\
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Uninstaller:      vRealize Orchestrator (Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+Install File:             D:\Uninstall_vRealize Orchestrator\Uninstall vRealize Orchestrator.exe
+                          Status: SUCCESSFUL
+
+
+Install File:             D:\Uninstall_vRealize Orchestrator\Uninstall vRealize Orchestrator.lax
+                          Status: SUCCESSFUL
+
+Install Directory:        D:\Uninstall_vRealize Orchestrator\resource\
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install File:             D:\Uninstall_vRealize Orchestrator\resource\iawin64_x64.dll
+                          Status: SUCCESSFUL
+
+Install File:             D:\Uninstall_vRealize Orchestrator\resource\remove.exe
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: DisplayName
+                          Value Data: vRealize Orchestrator
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: UninstallString
+                          Value Data: "D:\Uninstall_vRealize Orchestrator\Uninstall vRealize Orchestrator.exe"
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: Publisher
+                          Value Data: VMware, Inc.
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: URLInfoAbout
+                          Value Data: http//www.vmware.com
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: Contact
+                          Value Data: support@vmware.com
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: ProductID
+                          Value Data: a25b6d83-1edd-11b2-b127-fc7f6bc17d8c
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: InstallLocation
+                          Value Data: D:\
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: InstallDate
+                          Value Data: Tue May 23 10:19:46 IST 2017
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: DisplayVersion
+                          Value Data: 6.0.3.3000580
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: Comments
+                          Value Data: vRealize Orchestrator
+                          Status: ERROR
+
+Install Uninstaller:      vRealize Orchestrator (Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\vRealize Orchestrator
+                          Value Name: DisplayIcon
+                          Value Data: D:\\Uninstall_vRealize Orchestrator\vco.ico
+                          Status: ERROR
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Infrastructure\Orchestrator
+                          Value Name: InstalledVersion
+                          Value Data: 6.0.3.3000580
+                          Status: ERROR
+
+Install File:             D:\Uninstall_vRealize Orchestrator\vco.ico
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\vco_96x124.png
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\vco.bat
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\.placeholder
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-scriptingapi.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\commons-lang.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-j2eeutil.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\ognl.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\slf4j-log4j12.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-rest-client-stubs.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-gui.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\bcpkix-jdk15on.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-sdkapi.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\spring-core.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\cglib-nodep.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\rhino.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\hornetq-core-client.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-workflow-diagram.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-localization.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\geronimo-jms_1.1_spec.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\spring-beans.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\netty.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\aopalliance.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\commons-io.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\httpclient.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\bcprov-jdk15on.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-rest-client-services.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\spring-web.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\jgraphx.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\trident.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\spring-context.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\hornetq-jms-client.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-scriptingmodel.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\TableLayout.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\spring-aop.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\image4j.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\jchronic.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\commons-codec.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\log4j.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-modelejb-client.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\antlr.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-application.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\httpcore.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\slf4j-api.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-model.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-gui-resources.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\o11n-util.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\lib\commons-logging.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\vRO.icns
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\vco.sh
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\ico\appIcon_256x256.ico
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\ico\appIcon_32x32.ico
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\ico\appIcon_48x48.ico
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\ico\appIcon_16x16.ico
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\appIcon_256x256.png
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\o11n-clientbootstrap.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\doc\logo_vmo.jpg
+                          Status: SUCCESSFUL
+
+Install File:             D:\licenses\vfabric-tc-server-standard-open-source-licenses-2.9.7.RELEASE.txt
+                          Status: SUCCESSFUL
+
+Install File:             D:\licenses\open_source_licenses.txt
+                          Status: SUCCESSFUL
+
+Install Directory:        D:\apps\
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Create LaunchAnywhere:    vRealize Orchestrator Client.exe (Install All LaunchAnywhere Java Executable Components)
+                          Status: SUCCESSFUL
+
+Install File:             D:\apps\vRealize Orchestrator Client.exe
+                          Status: SUCCESSFUL
+
+
+Install File:             D:\apps\vRealize Orchestrator Client.lax
+                          Status: SUCCESSFUL
+
+Create LaunchAnywhere:    vRealize Orchestrator Client.exe (Install All LaunchAnywhere Java Executable Components)
+                          Status: SUCCESSFUL
+
+Install File:             D:\version.txt
+                          Status: SUCCESSFUL
+
+Modify Text File - Single File:   version.txt
+                          Status: SUCCESSFUL
+
+Install File:             D:\README.html
+                          Status: SUCCESSFUL
+
+Install Directory:        D:\Users\sbijalwa\Desktop\
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Create Shortcut:          D:\Users\sbijalwa\Desktop\vRealize Orchestrator Client.lnk
+                          Status: SUCCESSFUL
+
+Create Shortcut:          D:\Users\sbijalwa\Desktop\vRealize Orchestrator README.lnk
+                          Status: SUCCESSFUL
+
+
+
+Custom Action:            com.vmware.o11n.ia.actions.ActionFixIcon
+                          Status: SUCCESSFUL
+
+

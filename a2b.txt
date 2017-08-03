@@ -1,0 +1,3 @@
+var k = vmNamee.config.hardware.device;
+
+System.log(k);

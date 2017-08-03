@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<style type="text/css">
+		html, body { font-family: Verdana, Arial, Helvetica, sans-serif; color: #333; font-size: 12px; line-height: 18px;	}
+	</style>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>VMware vRealize Orchestrator README</title>
+</head>
+
+<body>
+<img src="doc/logo_vmo.jpg"/>
+<h1 style="margin:1em 0;">VMware vRealize Orchestrator README</h1>
+<p>VMware vRealize Orchestrator is a development and process-automation platform that provides a library of 
+  extensible workflows to allow you to create and run automated, configurable processes to manage the VMware<br />
+  vSphere infrastructure. Orchestrator exposes every operation in the vCenter Server API, allowing you to integrate all these operations 
+  into your automated processes. Orchestrator also allows you to integrate with other management and 
+administration solutions through its open plug-in architecture. </p>
+<p>Orchestrator is installed on your system automatically when you install VMware vCenter Server. </p>
+<h2>Start the Orchestrator Configuration Service </h2>
+<p>The VMware vRealize Orchestrator configuration service might not started by default. You must 
+  start it manually before you try to access the Orchestrator configuration interface. </p>
+<ol>
+  <li> Select <strong>Start</strong> &gt; <strong>Programs</strong> &gt; <strong>Administrative Tools</strong> &gt; <strong>Services</strong>.</li>
+  <li> Locate the <strong>VMware vRealize Orchestrator Configuration</strong> service in the list and check its status.</li>
+  <li> If the configuration service is not running, right-click <strong>VMware vRealize Orchestrator Configuration</strong> and select <strong>Start</strong>.</li>
+</ol>
+<p>The service is now running and the Orchestrator configuration interface is available. You can log in to the Orchestrator configuration interface and start the process of configuring Orchestrator.</p>
+<h2>Log In to the Orchestrator Configuration Interface</h2>
+<ol>
+  <li>To access the Orchestrator configuration interface, do one of the following:
+    <ul>
+      <li>Select <strong>Start</strong> &gt; <strong>Programs</strong> &gt; <strong>VMware</strong> &gt; <strong>vRealize Orchestrator Configuration</strong>.</li>
+      <li>In a Web browser navigate to <code>https://<em>&lt;server_IP_address_or_DNS_name&gt;</em>:8283/vco-config</code></li>
+    </ul>
+  </li>
+  <li>Log in with the default credentials:
+    <ul>
+      <li> User name: <code>vmware</code> </li>
+      <li> Password: <code>vmware</code></li>
+    </ul>
+  When you log in to the Orchestrator configuration interface with the default password, you see the Welcome page prompting you to change the default password of the Orchestrator configuration interface.</li>
+  <li>Change the default password and click <strong>Apply changes</strong>.
+  <br /><strong>IMPORTANT:</strong> Your new password must be at least eight characters long, and must contain at least one digit, special character, and uppercase letter.  
+<br />  The next time you log in to the Orchestrator configuration interface, you can use your new password. 
+</li>
+</ol>
+    <h2>Configure Orchestrator</h2>
+    <p>For instructions about how to configure Orchestrator, see <i>Installing and Configuring VMware vRealize Orchestrator</i> on the <a href="http://www.vmware.com/support/pubs/orchestrator_pubs.html">VMware vRealize Orchestrator Documentation</a>.  </p>
+</body>
+</html>

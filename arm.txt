@@ -1,0 +1,21 @@
+var number, newNumber, remainder,result=0
+var inputNumber = number;
+while (number!= 0)
+{
+remainder = number%10;
+System.log(remainder);
+result += remainder*remainder*remainder
+System.log(result);
+newNumber = Math.floor(number/10)
+System.log(newNumber);
+number = newNumber;
+}
+System.log(newNumber);
+if(result == inputNumber)
+{
+System.log("armstrong number" +result);
+}
+else
+{
+System.log("Not an armstrong number" +result );
+}

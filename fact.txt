@@ -1,0 +1,10 @@
+var num = user_input;
+    var result = 1;
+
+	//System.log(num);
+	System.log("User input value is:   " + num);
+	
+    for (var i = 2; i <= num; i++){
+        result *= i;
+		System.log(result);
+    	}

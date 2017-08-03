@@ -1,0 +1,8 @@
+var vms = VcPlugin.allVirtualMachines;
+		
+		for each (vm in vms)
+		{
+		System.log(vms.name);
+		System.log(vms.config.hardware.numCPU)
+		
+		}
